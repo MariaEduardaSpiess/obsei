@@ -68,6 +68,13 @@ body {
   letter-spacing: -.05rem;
 }
 
+.bottom-links {
+  position: absolute; 
+  bottom: 0;
+  padding-bottom: 20px;
+  line-height: 0px;
+}
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 

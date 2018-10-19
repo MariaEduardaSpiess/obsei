@@ -1,23 +1,23 @@
 <?php
   include 'header.html';
 ?>
-
-      <div class="row align-items-center pt-sm-5">
-        <div class="col-6 col-md-6 mx-auto mb-sm-4 order-md-2 text-center">
-          <img class="img-fluid" src="images/logo_trasparente.png" width="318" height="192" alt="">
-        </div>
-        <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5">
-          <h1 class="mb-3 mt-4 mt-sm-0">Conheça-nos</h1>
-          <p class="lead pb-4">
-            O Observatório do Empreendedorismo e Inovação (OBSEI) foi criado em 2017, como um projeto de pesquisa
-            que tem sido implementado e desenvolvido por professores e pesquisadores da Faculdade SOCIESC de Blumenau.
-            O OBSEI atualmente está inserido no grupo de pesquisa em Gestão e Tecnologia da Informação e
-            Conhecimento, integrado ao conselho nacional de desenvolvimento científico e tecnológico (CNPq/DGP).
-          </p>
-        </div>
+<main class="bd-masthead py-5 bg-light" role="main">
+  <div class="container">
+    <div class="row align-items-center pt-sm-5">
+      <div class="col-6 col-md-6 mx-auto mb-sm-4 order-md-2 text-center">
+        <img class="img-fluid" src="images/logo_trasparente.png" width="318" height="192" alt="">
+      </div>
+      <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5">
+        <h1 class="mb-3 mt-4 mt-sm-0">Conheça-nos</h1>
+        <p class="lead pb-4">
+          O Observatório do Empreendedorismo e Inovação (OBSEI) foi criado em 2017, como um projeto de pesquisa
+          que tem sido implementado e desenvolvido por professores e pesquisadores da Faculdade SOCIESC de Blumenau.
+          O OBSEI atualmente está inserido no grupo de pesquisa em Gestão e Tecnologia da Informação e
+          Conhecimento, integrado ao conselho nacional de desenvolvimento científico e tecnológico (CNPq/DGP).
+        </p>
       </div>
     </div>
-  </main>
+  </div>
 
   <hr class="featurette-divider mt-0">
 
@@ -97,7 +97,7 @@ do observatório, e os projetos associados ao OBSEI.</p>
         <img class="featurette-image img-fluid" src="images/consideracoes.jpg" alt="Generic placeholder image">
       </div>
     </div>
-
+  </div><!-- /.container -->
 <?php 
   include 'footer.html';
 ?>
