@@ -32,7 +32,7 @@
             <img class="float-sm-right img-fluid my-auto" width="98" height="30,4" src="images/brand.png" alt="">
             <div class="collapse navbar-collapse text-center" id="navbarCollapse">
                 <ul class="navbar-nav ml-auto" id="nav">
-                    <li class="nav-item <?php if ($link == 'link') echo 'active'; ?>">
+                    <li class="nav-item <?php if ($link == '' or $link == 'link') echo 'active'; ?>">
                         <a class="nav-link" href="index.php?p=link">Home</a>
                     </li>
                     <li class="nav-item <?php if ($link == 'link2') echo 'active'; ?>">

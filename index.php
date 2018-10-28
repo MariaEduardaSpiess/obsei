@@ -18,14 +18,14 @@
       </div>
     </div>
   </div>
-
+  </main>
   <hr class="featurette-divider mt-0">
 
   <!-- Marketing messaging and featurettes
       ================================================== -->
   <!-- Wrap the rest of the page in another container to center all the content. -->
 
-  <div class="container marketing">
+  <div class="container marketing mb-5">
 
     <!-- Three columns of text below the carousel -->
     <div class="row text-center">
@@ -99,5 +99,5 @@ do observatório, e os projetos associados ao OBSEI.</p>
     </div>
   </div><!-- /.container -->
 <?php 
-  include 'footer.html';
+  include 'footer.php';
 ?>
