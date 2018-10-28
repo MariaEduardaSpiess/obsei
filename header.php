@@ -1,3 +1,7 @@
+<?php
+    $link = strip_tags($_GET['p']);
+?>
+
 <!doctype html>
 <html lang="en">
 
@@ -19,7 +23,6 @@
 </head>
 
 <body class="mb-0 pb-4">
-
     <header>
         <nav class="navbar navbar-expand-md navbar-dark fixed-top shadow-sm" style="background-color: #000e6e">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
@@ -29,26 +32,26 @@
             <img class="float-sm-right img-fluid my-auto" width="98" height="30,4" src="images/brand.png" alt="">
             <div class="collapse navbar-collapse text-center" id="navbarCollapse">
                 <ul class="navbar-nav ml-auto" id="nav">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="index.php">Home</a>
+                    <li class="nav-item <?php if ($link == 'link') echo 'active'; ?>">
+                        <a class="nav-link" href="index.php?p=link">Home</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="projetos.php">Projetos</a>
+                    <li class="nav-item <?php if ($link == 'link2') echo 'active'; ?>">
+                        <a class="nav-link" href="projetos.php?p=link2">Projetos</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="links.php">Links</a>
+                    <li class="nav-item <?php if ($link == 'link3') echo 'active'; ?>">
+                        <a class="nav-link" href="links.php?p=link3">Links</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href='pesquisadores.php'>Pesquisadores</a>
+                    <li class="nav-item <?php if ($link == 'link4') echo 'active'; ?>">
+                        <a class="nav-link" href='pesquisadores.php?p=link4'>Pesquisadores</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href='pesquisadores.php'>Questionários</a>
+                    <li class="nav-item <?php if ($link == 'link5') echo 'active'; ?>">
+                        <a class="nav-link" href='questionarios.php?p=link5'>Questionários</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item <?php if ($link == 'link6') echo 'active'; ?>">
                         <a class="nav-link" href="#">Artigos</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Ambiente</a>
+                    <li class="nav-item <?php if ($link == 'link7') echo 'active'; ?>">
+                        <a class="nav-link" target="_blank" href="http://www.dalfovo.com/ambienteempreendedor/desktop/index.php">Ambiente</a>
                     </li>
                 </ul>
             </div>

@@ -1,5 +1,5 @@
 <?php
-  include 'header.html';
+  include 'header.php';
 ?>
 <main class="bd-masthead py-5" id="content" role="main">
     <div class="container">
@@ -21,9 +21,9 @@
                 <ul>
                     <li><a href="http://www.theverge.com" target="_blank">The Verge (Inglês)</a></li>
                     <li><a href="http://www.canaltech.com.br" target="_blank">Canaltech</a></li>
-                    <li><a href="http://www.capes.gov.br" target="_blank">CAPES</a></li>
-                    <li><a href="http://www.finep.gov.br" target="_blank">FINEP</a></li>
-                    <li><a href="http://www.fapesc.sc.gov.br" target="_blank">FAPESC</a></li>
+                    <li><a href="http://betechers.com.br/" target="_blank">Be!Tech</a></li>
+                    <li><a href="https://www.wired.co.uk/topic/technology" target="_blank">Wired</a></li>
+                    <li><a href="https://technewsbrasil.com.br/" target="_blank">Tech News Brasil</a></li>
                 </ul>
             </div>
             <div class="col-md-4">
@@ -33,7 +33,7 @@
                     <li><a href="https://endeavor.org.br" target="_blank">Endeavor</a></li>
                     <li><a href="https://exame.abril.com.br/noticias-sobre/empreendedorismo/" target="_blank">EXAME</a></li>
                     <li><a href="https://epocanegocios.globo.com/Empreendedorismo/index.html" target="_blank">ÉPOCA NEGÓCIOS</a></li>
-                    <li><a href="https://empreendedor.com.br" target="_blank">EMPREENDEDOR</a></li>
+                    <li><a href="https://abstartups.com.br/" target="_blank">abstartups</a></li>
                 </ul>
             </div>
         </div>

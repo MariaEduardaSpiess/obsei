@@ -1,5 +1,5 @@
 <?php
-  include 'header.html';
+  include 'header.php';
 ?>
 <main class="bd-masthead py-5" id="content" role="main">
     <div class="container">
