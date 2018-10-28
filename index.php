@@ -19,7 +19,7 @@
     </div>
   </div>
   </main>
-  <hr class="featurette-divider mt-0">
+  <hr class="featurette-divider mt-0 mb-md-4">
 
   <!-- Marketing messaging and featurettes
       ================================================== -->

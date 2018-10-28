@@ -6,7 +6,7 @@
         <h1 class="featurette-heading mt-2">Projetos Unisociesc Blumenau</h1>
         <hr class="featurette-divider mt-1 mb-5">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4 mt-4">
                 <div class="card h-100">
                     <div class="card-body">
                         <h4 class="card-title">Comunicação Estratégica e Competitiva</h4>
@@ -19,7 +19,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 mt-4">
                 <div class="card h-100">
                     <div class="card-body">
                         <h4 class="card-title">Conhecimento, Estratégia e Competitividade</h4>
@@ -32,7 +32,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 mt-4">
                 <div class="card h-100">
                     <div class="card-body">
                         <h4 class="card-title">Direito Empresarial e Sustentabilidade</h4>
@@ -46,8 +46,8 @@
                 </div>
             </div>
         </div>
-        <div class="row mt-4">
-            <div class="col-md-4">
+        <div class="row">
+            <div class="col-md-4 mt-4">
                 <div class="card h-100">
                     <div class="card-body">
                         <h4 class="card-title">Engenharia Civil na Gestão da Construção Civíl, Tecnologia da Construção e Estruturas, e Ambiental em Recursos Hídricos</h4>
@@ -60,7 +60,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 mt-4">
                 <div class="card h-100">
                     <div class="card-body">
                         <h4 class="card-title">Gestão e Tecnologia da Informação e Conhecimento</h4>
@@ -73,7 +73,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 mt-4">
                 <div class="card h-100">
                     <div class="card-body">
                         <h4 class="card-title">Psicologia na Saúde e na Gestão Organizacional</h4>

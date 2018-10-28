@@ -51,7 +51,7 @@
                         <a class="nav-link" href="#">Artigos</a>
                     </li>
                     <li class="nav-item <?php if ($link == 'link7') echo 'active'; ?>">
-                        <a class="nav-link" target="_blank" href="http://www.dalfovo.com/ambienteempreendedor/desktop/index.php">Ambiente</a>
+                        <a class="nav-link" href="http://www.dalfovo.com/ambienteempreendedor/desktop/index.php">Ambiente</a>
                     </li>
                 </ul>
             </div>

@@ -6,7 +6,7 @@
         <h1 class="featurette-heading mt-2">Pesquisadores</h1>
         <hr class="featurette-divider mt-1 mb-5">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4 mt-4">
                 <div class="card h-100">
                     <img class="card-img-top" src="images/profissional.png" alt="Card image cap">
                     <div class="card-body">
@@ -16,7 +16,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 mt-4">
                 <div class="card h-100">
                     <img class="card-img-top" src="images/profissional.png" alt="Card image cap">
                     <div class="card-body">
@@ -26,7 +26,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 mt-4">
                 <div class="card h-100">
                     <img class="card-img-top" src="images/profissional.png" alt="Card image cap">
                     <div class="card-body">
@@ -37,8 +37,8 @@
                 </div>
             </div>
         </div>
-        <div class="row mt-4">
-            <div class="col-md-4">
+        <div class="row">
+            <div class="col-md-4 mt-4">
                 <div class="card h-100">
                     <img class="card-img-top" src="images/profissional.png" alt="Card image cap">
                     <div class="card-body">
@@ -48,7 +48,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 mt-4">
                 <div class="card h-100">
                     <img class="card-img-top" src="images/profissional.png" alt="Card image cap">
                     <div class="card-body">
@@ -58,7 +58,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 mt-4">
                 <div class="card h-100">
                     <img class="card-img-top" src="images/profissional.png" alt="Card image cap">
                     <div class="card-body">
