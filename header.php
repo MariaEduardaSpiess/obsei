@@ -24,7 +24,7 @@
 
 <body class="mb-0 pb-4">
     <header>
-        <nav class="navbar navbar-expand-md navbar-dark fixed-top shadow-sm" style="background-color: #000e6e">
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background-color: #000e6e">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
                 aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -48,7 +48,7 @@
                         <a class="nav-link" href='questionarios.php?p=link5'>Questionários</a>
                     </li>
                     <li class="nav-item <?php if ($link == 'link6') echo 'active'; ?>">
-                        <a class="nav-link" href="#">Artigos</a>
+                        <a class="nav-link" href="artigos.php?p=link6">Artigos</a>
                     </li>
                     <li class="nav-item <?php if ($link == 'link7') echo 'active'; ?>">
                         <a class="nav-link" href="http://www.dalfovo.com/ambienteempreendedor/desktop/index.php">Ambiente</a>
